@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "518987965857",
+    "firebase_url": "https://mspr-java-9923e.firebaseio.com",
+    "project_id": "mspr-java-9923e",
+    "storage_bucket": "mspr-java-9923e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518987965857:android:aa0c65f2a670e88a",
+        "android_client_info": {
+          "package_name": "com.example.simon.gosecuriapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518987965857-5gldjf30ob9eek7e5k2ujik7pqribpik.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.simon.gosecuriapp",
+            "certificate_hash": "840349aa3a1265d6be172a28293c3955084ae30e"
+          }
+        },
+        {
+          "client_id": "518987965857-tpb3u37r0r45ko5so91h9bospcg362mr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmsr3lGa0lgckXuoLDmhUP1Ux4cBDgWug"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518987965857-tpb3u37r0r45ko5so91h9bospcg362mr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
